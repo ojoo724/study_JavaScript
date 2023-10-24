@@ -143,13 +143,3 @@ fileInput.addEventListener("change", onFileChange);
 
 // 밈 저장
 saveBtn.addEventListener("click", onSaveImage);
-
-
-//커밋 테스트용 코드
-function testCode(){
-    let testValue = false;
-    if(testValue){
-    }else{
-
-    }
-}
